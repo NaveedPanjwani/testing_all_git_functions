@@ -7,4 +7,5 @@ Init,
 Config --global, 
 add, 
 commit,
+ls-files
 

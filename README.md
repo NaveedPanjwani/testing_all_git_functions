@@ -7,5 +7,11 @@ Init,
 Config --global, 
 add, 
 commit,
-ls-files
-
+ls-files,
+rm,
+status (-s),
+diff --staged,
+difftool (--staged),
+log (--oneline) (--stat),
+show:{filename},
+restore, 

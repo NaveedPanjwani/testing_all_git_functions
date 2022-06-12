@@ -32,3 +32,4 @@ remote (-vv),
 fetch,
 git log --oneline --all --graph,
 pull,
+push

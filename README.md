@@ -33,4 +33,5 @@ fetch,
 git log --oneline --all --graph,
 pull,
 push,
-branch (-r or -vv)
+branch (-r or -vv),
+push -u origin {local branch name},

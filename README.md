@@ -33,4 +33,4 @@ fetch,
 git log --oneline --all --graph,
 pull,
 push,
-just testing
+branch (-r or -vv)

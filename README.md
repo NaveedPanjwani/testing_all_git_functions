@@ -36,3 +36,6 @@ push,
 branch (-r or -vv),
 push -u origin {local branch name},
 push -d origin {remote branch name},
+pull request,
+push -force,
+commit --amend

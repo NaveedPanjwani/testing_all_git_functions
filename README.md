@@ -38,4 +38,5 @@ push -u origin {local branch name},
 push -d origin {remote branch name},
 pull request,
 push -force,
-commit --amend
+commit --amend,
+checkout --track origin/{remote branch that u want to be local}
